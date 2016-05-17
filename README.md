@@ -20,12 +20,12 @@ A tool for visualizing predicted and annotated vanishing points in images from s
 ### Configuration
 
 **Data Settings**
-MODELS_PATH (main.py, String): Path to models.
-FREEZED_NAME (main.py, String): Name of model to use.
-READ_PATH (main.py, String): Path to folder with dataset and labels to display.
+- MODELS_PATH (main.py, String): Path to models.
+- FREEZED_NAME (main.py, String): Name of model to use.
+- READ_PATH (main.py, String): Path to folder with dataset and labels to display.
 
 **Execution Settings**
-AUTOPLAY (main.py, True/False): Run sequence of images automatically.
+- AUTOPLAY (main.py, True/False): Run sequence of images automatically.
 
 ### Running
 
