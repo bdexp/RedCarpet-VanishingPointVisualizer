@@ -1,4 +1,4 @@
-# RedCarpet Lane Detection Visualizer
+# RedCarpet Vanishing Point Visualizer
 
 A tool for visualizing predicted and annotated vanishing points in images from scaled cars
 
